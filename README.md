@@ -78,8 +78,7 @@ Merci de prendre connaissance des fichiers suivants avant de contribuer au proje
 
 Auteurs
 
-Les auteurs ne sont pas spécifiés dans la documentation actuelle.
-Licence
+O.C.
 
 Ce projet est sous la licence GNU GPL v3. Consultez le fichier LICENSE pour plus de détails sur les droits et restrictions liés à l'utilisation de ce projet.
 Note
