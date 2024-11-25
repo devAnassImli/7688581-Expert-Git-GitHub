@@ -1,4 +1,4 @@
-
+README modifiée
 Documentation pour le projet Open Transport
 
 Voici une version structurée et enrichie de la documentation fournie pour le projet Open Transport, une application web pour le covoiturage. Cette version clarifie les sections et propose des exemples génériques pour les étapes non spécifiées.
